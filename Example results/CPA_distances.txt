@@ -1,0 +1,8 @@
+The ranges at CPA were:
+     Pass 1 - 97 m
+     Pass 2 - 78 m
+     Pass 3 - 142 m
+     Pass 4 - 83 m
+     Pass 5 - 88 m
+     Pass 6 - 129 m
+
