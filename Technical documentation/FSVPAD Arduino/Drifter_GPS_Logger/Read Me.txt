@@ -1,0 +1,1 @@
+The DrifterGPSLogger code in this directory is the Arduino code that required to log the GPS data. If the Arduino is not operating properly this should be installed on the Arduino unit. Please refer to the manual with any questions about properly loading it.

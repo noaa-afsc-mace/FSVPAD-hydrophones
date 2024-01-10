@@ -1,0 +1,10 @@
+[drifter]
+com_port: 11
+com_baud: 4800
+
+[ship]
+com_port: 19
+com_baud: 4800
+
+[logging]
+directory: C:\Users\MACE\Documents\DrifterData

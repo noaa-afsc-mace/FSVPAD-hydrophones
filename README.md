@@ -9,6 +9,8 @@ Bassett, C., De Robertis, A., Gallagher, M.  In preparation.  A low-cost passive
 ## Primary directories
 **Matlab** - contains processing scripts to estimate vessel radiated noise from FSVPAD measurements
 
+**FSVPAD Logger** - python application run on ship-based laptop to collect GPS data and compute the range and bearing between the FSVPAD and the test vessel.
+
 **Technical documentation** - contains technical documentation related to construction and configuration of the FSVPAD system
 
 **Example results** - contains example output of the processing scripts from a 2023 measurement of NOAA ship Oscar Dyson.
