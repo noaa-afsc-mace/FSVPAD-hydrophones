@@ -1,0 +1,6 @@
+BAD CAL: Hydrophone 382278 (-164.3 dB re 1V/uPa) - Calibration Signal: 142.8 dB re 1 uPa
+BAD CAL: Hydrophone 382293 (-164.0 dB re 1V/uPa) - Calibration Signal: 146.3 dB re 1 uPa
+BAD CAL: Hydrophone 382295 (-164.5 dB re 1V/uPa) - Calibration Signal: 147.3 dB re 1 uPa
+GOOD CAL: Hydrophone 382314 (-163.8 dB re 1V/uPa) - Calibration Signal: 144.3 dB re 1 uPa
+GOOD CAL: Hydrophone 382299 (-164.6 dB re 1V/uPa) - Calibration Signal: 144.6 dB re 1 uPa
+BAD CAL: Hydrophone 382313 (-163.4 dB re 1V/uPa) - Calibration Signal: 145.8 dB re 1 uPa
