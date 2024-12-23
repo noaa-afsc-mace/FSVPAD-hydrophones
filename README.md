@@ -4,7 +4,8 @@ FSVPAD is a free-drifting hydrophone spar buoy designed for measurement of vesse
 
 This repository provides processing software, technical information, and example data output from an instrument deployment as described in a NOAA Technical memorandum:
 
-Bassett, C., De Robertis, A., Gallagher, M.  In preparation.  A low-cost passive acoustic drifter for radiated noise measurements of NOAA fisheries survey vessels.
+Bassett, C., De Robertis, A., and Gallagher, M. 2024. A passive acoustic drifter for radiated noise measurements of NOAA Fisheries survey vessels. 
+U.S. Department of Commerce, NOAA Technical Memorandum NMFS-AFSC-490, 116 p. https://repository.library.noaa.gov/view/noaa/65794
 
 ## Primary directories
 **Matlab** - contains processing scripts to estimate vessel radiated noise from FSVPAD measurements
